@@ -31,4 +31,4 @@ scrapy startproject myproject
 ````
 After running this command, it will make a Spider folder on your PC like [This](https://github.com/kohandelramin/Web-Scraping-with-Scrapy-Library/tree/main/myproject)
 
-**For more details take look at [Amazon Reviews Scrapy](https://github.com/kohandelramin/Web-Scraping-with-Scrapy-Library/blob/main/Amazon%20Reviews%20Scraping%20with%20Scrapy.ipynb)**
+**For more details take a look at [Amazon Reviews Scrapy](https://github.com/kohandelramin/Web-Scraping-with-Scrapy-Library/blob/main/Amazon%20Reviews%20Scraping%20with%20Scrapy.ipynb)**
