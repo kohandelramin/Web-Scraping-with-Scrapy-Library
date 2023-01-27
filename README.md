@@ -26,4 +26,4 @@ This will create a new directory with the basic file structure and settings for 
 ````
 scrapy startproject myproject
 ````
-after Running this command, it will make a Spider folder on your PC like [This](https://github.com/kohandelramin/Web-Scraping-with-Scrapy-Library/tree/main/myproject)
+After running this command, it will make a Spider folder on your PC like [This](https://github.com/kohandelramin/Web-Scraping-with-Scrapy-Library/tree/main/myproject)
