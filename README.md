@@ -4,13 +4,13 @@
 
 for using this library you need to install it first:
 ````
- pip install scrapy**
- ````
+pip install scrapy
+````
 
 for anaconda:
 ````
-  conda install -c conda-forge scrapy
-  ````
+conda install -c conda-forge scrapy
+````
 
 You can then define your spider by subclassing the scrapy. Spider class and defining the following methods:\
 
