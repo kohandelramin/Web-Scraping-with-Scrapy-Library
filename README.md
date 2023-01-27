@@ -1,5 +1,8 @@
 # Web Scraping with Scrapy Library
 
+**Before start scrap any Site, you should be sure of its "terms and Policy".**
+**You should not use a site that is illegal to scrap.**
+
 ## Using Scrapy Library
 
 for using this library you need to install it first:
